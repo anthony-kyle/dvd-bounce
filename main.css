@@ -1,0 +1,25 @@
+/*******************************************************
+ *  main.css
+ *  purpose: to style the classic DVD screensaver
+ *  author: Anthony McGrath (akm@anthonykyle.co.nz)
+ ******************************************************/
+
+ html, body {
+   width: 100%;
+   height: 100%;
+   padding: 0px;
+   margin: 0px;
+   background-color: black;
+ }
+
+ #imgPreload {
+   display: none;
+ }
+
+ #logo {
+   width: 200px;
+   height: 88px;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+ }
